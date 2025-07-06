@@ -1,0 +1,12 @@
+flask
+opencv-python-headless
+pandas
+numpy
+# tqdm
+email-validator
+phonenumbers
+cryptography
+python-dotenv
+requests
+# gunicorn
+# locust

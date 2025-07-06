@@ -1,0 +1,13 @@
+.idea
+venv
+uploaded/dataset/*
+result
+__*
+app*.log
+credentials
+docker-template
+gitops-development
+helm-development
+helm
+testing-script
+logs/*.log
