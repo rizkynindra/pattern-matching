@@ -12,10 +12,10 @@ imgSimilarity
 2. python imgSimilarity_service.py
 
 emailSimilarity
-2. python emailSimilarity.py
+1. python emailSimilarity.py
 
 phoneValidation
-2. python phoneValidation
+1. python phoneValidation
 
 # Running unit test
 
