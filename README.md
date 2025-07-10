@@ -17,11 +17,6 @@ emailSimilarity
 phoneValidation
 2. python phoneValidation
 
-# Running performance test in locust
-
-locust -f locustfile.py --host=http://pattern-matching-api-pattern-matching.apps.ocp-drc.bpjsketenagakerjaan.go.id
-
-
 # Running unit test
 
 python -m unittest -v unit_test.py
